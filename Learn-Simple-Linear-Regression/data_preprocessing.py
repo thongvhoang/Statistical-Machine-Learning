@@ -37,3 +37,11 @@ plt.title("Salary vs Experiment (Testing set)")
 plt.xlabel("Experiment (years)")
 plt.ylabel("Salary (dollars/year)")
 plt.show()
+
+def compare(i_example):
+    x = X_test[i_example:i_example+1]
+    y = Y_test[i_example]
+    y_pred = regressor.predict(x)
+    print(x, y, y_pred)
+for i in range(len(X_test)):
+    compare(i)
