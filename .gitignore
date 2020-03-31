@@ -122,9 +122,14 @@ dmypy.json
 
 # Folder
 Simple_Linear_Regression/
+Learn-Simple-Linear-Regression/
+Learn-multiple-linear-regression/P14-Multiple-Linear-Regression/
 
 # zip
 *.zip
+
+# PNG
+*.png
 
 # Vscode
 *.code-workspace
