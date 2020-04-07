@@ -131,6 +131,9 @@ Learn-multiple-linear-regression/P14-Multiple-Linear-Regression/
 # PNG
 *.png
 
+# ODT
+*.odt
+
 # Vscode
 *.code-workspace
 
