@@ -122,7 +122,6 @@ dmypy.json
 
 # Folder
 Simple_Linear_Regression/
-Learn-Simple-Linear-Regression/
 Learn-multiple-linear-regression/P14-Multiple-Linear-Regression/
 
 # zip
@@ -133,6 +132,9 @@ Learn-multiple-linear-regression/P14-Multiple-Linear-Regression/
 
 # ODT
 *.odt
+
+# SAV
+*.sav
 
 # Vscode
 *.code-workspace
