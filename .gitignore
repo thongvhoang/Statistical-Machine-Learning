@@ -123,6 +123,15 @@ dmypy.json
 # Folder
 Simple_Linear_Regression/
 Learn-multiple-linear-regression/P14-Multiple-Linear-Regression/
+Regression-Model-Evaluation/
+# pdf
+01. Cây Quyết Định - 2020_02_11.pdf
+A010.-kNN-Algorithm.pdf
+05 - Hồi Quy  Logistic 2020 - 03 - 06.pdf
+Section 05-Multiple Linear Regression 2020 - 03 - 04.pdf
+Section 06-Polynomial Regression 2020_02_17.pdf
+Random Forest Regression.pdf
+*.pdf
 
 # zip
 *.zip
